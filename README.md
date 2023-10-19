@@ -18,9 +18,8 @@ Dataset: 178 * 218 sized 20,000 images of celebrities (created by the University
 
 Code:
 
-import os
-os.environ['KAGGLE_CONFIG_DIR'] = "drive/MyDrive/Colab Notebooks/" 
-!kaggle datasets download -d jessicali9530/celeba-dataset
+![image](https://github.com/jasonshin1127/FaceAIGenerator/assets/101506840/150114fa-4cfc-4e47-b92c-a96a940acbef)
+
 
 ![image](https://github.com/jasonshin1127/FaceAIGenerator/assets/101506840/150fe068-7be9-4606-af93-348225cbbe4d)
 
