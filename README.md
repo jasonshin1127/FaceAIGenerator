@@ -4,7 +4,8 @@ Based on 20,000 real human images, draws a new form of human face
 GNN (Generative Adversarial Network)
 
 Generator: Used for new image production
-![image](https://github.com/jasonshin1127/FaceAIGenerator/assets/101506840/36092cc6-8ab7-4b91-a868-eee871b26c08)
+![image](https://github.com/jasonshin1127/FaceAIGenerator/assets/101506840/45a3185d-3670-4b7e-b2ac-ccad4fb2301e)
+
 
 
 Discriminator: Verifying the image
